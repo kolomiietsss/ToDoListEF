@@ -1,0 +1,32 @@
+﻿@using ToDoListEF.Domain.Enum
+@{
+    ViewData["Title"] = "Home Page";
+}
+<h4 class="mb-3 text-muted">Add task</h4>
+<form action="" id="createTaskForm">
+    <div class="mb-3">
+        <label for="" class="form-table">Title</label>
+        <input name="name" type="text" class="form-control"/>
+    </div>
+    <label for="" class="form-table">Priority</label>
+    <select name="priority" id="" class="form-select mb-3" asp-items="Html.GetEnumSelectList<Priority>()"></select>
+    <div class="mb-3">
+        <label for="" class="form-table">Description</label>
+        <textarea name="description" type="text" class="form-control" rows="3"></textarea>
+    </div>
+    <button id="createTask" class="btn btn-primary">Create</button>
+</form>
+
+@section Scripts
+{
+    <script>
+        $('#createTask').on('click', function (e){
+            e.preventDefault();
+            $.ajax({
+                type: 'Post',
+                url: '@Url.Action("Create", "Task")',
+                data:  $('#createTaskForm').serialize()
+            })
+        });
+    </script>
+}

@@ -1,0 +1,12 @@
+D:\Study\TestProj\ToDoListEF\ToDoListEF.Domain\bin\Debug\net7.0\ToDoListEF.Domain.deps.json
+D:\Study\TestProj\ToDoListEF\ToDoListEF.Domain\bin\Debug\net7.0\ToDoListEF.Domain.dll
+D:\Study\TestProj\ToDoListEF\ToDoListEF.Domain\bin\Debug\net7.0\ToDoListEF.Domain.pdb
+D:\Study\TestProj\ToDoListEF\ToDoListEF.Domain\obj\Debug\net7.0\ToDoListEF.Domain.csproj.AssemblyReference.cache
+D:\Study\TestProj\ToDoListEF\ToDoListEF.Domain\obj\Debug\net7.0\ToDoListEF.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\TestProj\ToDoListEF\ToDoListEF.Domain\obj\Debug\net7.0\ToDoListEF.Domain.AssemblyInfoInputs.cache
+D:\Study\TestProj\ToDoListEF\ToDoListEF.Domain\obj\Debug\net7.0\ToDoListEF.Domain.AssemblyInfo.cs
+D:\Study\TestProj\ToDoListEF\ToDoListEF.Domain\obj\Debug\net7.0\ToDoListEF.Domain.csproj.CoreCompileInputs.cache
+D:\Study\TestProj\ToDoListEF\ToDoListEF.Domain\obj\Debug\net7.0\ToDoListEF.Domain.dll
+D:\Study\TestProj\ToDoListEF\ToDoListEF.Domain\obj\Debug\net7.0\refint\ToDoListEF.Domain.dll
+D:\Study\TestProj\ToDoListEF\ToDoListEF.Domain\obj\Debug\net7.0\ToDoListEF.Domain.pdb
+D:\Study\TestProj\ToDoListEF\ToDoListEF.Domain\obj\Debug\net7.0\ref\ToDoListEF.Domain.dll

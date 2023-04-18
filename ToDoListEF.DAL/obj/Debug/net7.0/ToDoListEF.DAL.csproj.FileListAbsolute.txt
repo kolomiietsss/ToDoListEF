@@ -1,0 +1,15 @@
+D:\Study\TestProj\ToDoListEF\ToDoListEF.DAL\bin\Debug\net7.0\ToDoListEF.DAL.deps.json
+D:\Study\TestProj\ToDoListEF\ToDoListEF.DAL\bin\Debug\net7.0\ToDoListEF.DAL.dll
+D:\Study\TestProj\ToDoListEF\ToDoListEF.DAL\bin\Debug\net7.0\ToDoListEF.DAL.pdb
+D:\Study\TestProj\ToDoListEF\ToDoListEF.DAL\bin\Debug\net7.0\ToDoListEF.Domain.dll
+D:\Study\TestProj\ToDoListEF\ToDoListEF.DAL\bin\Debug\net7.0\ToDoListEF.Domain.pdb
+D:\Study\TestProj\ToDoListEF\ToDoListEF.DAL\obj\Debug\net7.0\ToDoListEF.DAL.csproj.AssemblyReference.cache
+D:\Study\TestProj\ToDoListEF\ToDoListEF.DAL\obj\Debug\net7.0\ToDoListEF.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\TestProj\ToDoListEF\ToDoListEF.DAL\obj\Debug\net7.0\ToDoListEF.DAL.AssemblyInfoInputs.cache
+D:\Study\TestProj\ToDoListEF\ToDoListEF.DAL\obj\Debug\net7.0\ToDoListEF.DAL.AssemblyInfo.cs
+D:\Study\TestProj\ToDoListEF\ToDoListEF.DAL\obj\Debug\net7.0\ToDoListEF.DAL.csproj.CoreCompileInputs.cache
+D:\Study\TestProj\ToDoListEF\ToDoListEF.DAL\obj\Debug\net7.0\ToDoListEF.DAL.csproj.CopyComplete
+D:\Study\TestProj\ToDoListEF\ToDoListEF.DAL\obj\Debug\net7.0\ToDoListEF.DAL.dll
+D:\Study\TestProj\ToDoListEF\ToDoListEF.DAL\obj\Debug\net7.0\refint\ToDoListEF.DAL.dll
+D:\Study\TestProj\ToDoListEF\ToDoListEF.DAL\obj\Debug\net7.0\ToDoListEF.DAL.pdb
+D:\Study\TestProj\ToDoListEF\ToDoListEF.DAL\obj\Debug\net7.0\ref\ToDoListEF.DAL.dll
