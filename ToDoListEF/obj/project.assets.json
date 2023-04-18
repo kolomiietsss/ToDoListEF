@@ -1408,6 +1408,20 @@
         "runtime": {
           "bin/placeholder/ToDoListEF.Domain.dll": {}
         }
+      },
+      "ToDoListEF.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "ToDoListEF.DAL": "1.0.0",
+          "ToDoListEF.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ToDoListEF.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ToDoListEF.Service.dll": {}
+        }
       }
     }
   },
@@ -4105,6 +4119,11 @@
       "type": "project",
       "path": "../ToDoListEF.Domain/ToDoListEF.Domain.csproj",
       "msbuildProject": "../ToDoListEF.Domain/ToDoListEF.Domain.csproj"
+    },
+    "ToDoListEF.Service/1.0.0": {
+      "type": "project",
+      "path": "../ToDoListEF.Service/ToDoListEF.Service.csproj",
+      "msbuildProject": "../ToDoListEF.Service/ToDoListEF.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4113,7 +4132,8 @@
       "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 7.0.3",
       "Microsoft.EntityFrameworkCore >= 7.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.3",
-      "ToDoListEF.DAL >= 1.0.0"
+      "ToDoListEF.DAL >= 1.0.0",
+      "ToDoListEF.Service >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4145,6 +4165,9 @@
           "projectReferences": {
             "D:\\Study\\TestProj\\ToDoListEF\\ToDoListEF.DAL\\ToDoListEF.DAL.csproj": {
               "projectPath": "D:\\Study\\TestProj\\ToDoListEF\\ToDoListEF.DAL\\ToDoListEF.DAL.csproj"
+            },
+            "D:\\Study\\TestProj\\ToDoListEF\\ToDoListEF.Service\\ToDoListEF.Service.csproj": {
+              "projectPath": "D:\\Study\\TestProj\\ToDoListEF\\ToDoListEF.Service\\ToDoListEF.Service.csproj"
             }
           }
         }

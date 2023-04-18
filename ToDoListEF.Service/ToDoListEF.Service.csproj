@@ -7,8 +7,8 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Implementations" />
-      <Folder Include="Interfaces" />
+      <ProjectReference Include="..\ToDoListEF.DAL\ToDoListEF.DAL.csproj" />
+      <ProjectReference Include="..\ToDoListEF.Domain\ToDoListEF.Domain.csproj" />
     </ItemGroup>
 
 </Project>
