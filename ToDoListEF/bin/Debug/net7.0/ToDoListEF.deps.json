@@ -40,6 +40,7 @@
           "Microsoft.EntityFrameworkCore": "7.0.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.3",
           "ToDoListEF.DAL": "1.0.0",
+          "ToDoListEF.Service": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "7.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "7.0.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "7.0.0.0",
@@ -1226,6 +1227,18 @@
         },
         "compile": {
           "ToDoListEF.Domain.dll": {}
+        }
+      },
+      "ToDoListEF.Service/1.0.0": {
+        "dependencies": {
+          "ToDoListEF.DAL": "1.0.0",
+          "ToDoListEF.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ToDoListEF.Service.dll": {}
+        },
+        "compile": {
+          "ToDoListEF.Service.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/7.0.0.0": {
@@ -3545,6 +3558,11 @@
       "sha512": ""
     },
     "ToDoListEF.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ToDoListEF.Service/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

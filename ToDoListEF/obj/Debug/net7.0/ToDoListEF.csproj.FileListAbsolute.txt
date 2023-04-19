@@ -407,3 +407,5 @@ D:\Study\TestProj\ToDoListEF\ToDoListEF\bin\Debug\net7.0\tr\Microsoft.CodeAnalys
 D:\Study\TestProj\ToDoListEF\ToDoListEF\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 D:\Study\TestProj\ToDoListEF\ToDoListEF\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
 D:\Study\TestProj\ToDoListEF\ToDoListEF\obj\Debug\net7.0\ToDoListEF.MvcApplicationPartsAssemblyInfo.cs
+D:\Study\TestProj\ToDoListEF\ToDoListEF\bin\Debug\net7.0\ToDoListEF.Service.dll
+D:\Study\TestProj\ToDoListEF\ToDoListEF\bin\Debug\net7.0\ToDoListEF.Service.pdb
